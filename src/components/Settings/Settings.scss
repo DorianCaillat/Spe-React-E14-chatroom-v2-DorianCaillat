@@ -1,0 +1,19 @@
+.settings {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
+
+.open {
+  display: flex;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 1rem 1rem;
+}
